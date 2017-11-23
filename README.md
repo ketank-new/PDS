@@ -1,4 +1,4 @@
-# About PDS
+## About PDS
 
 Package Distro Search tool (abbreviated as PDS), allows to perform package search across multiple OS distributions in a single UI interface.
 
